@@ -1,2 +1,5 @@
 # файл с сохранениями юпитера
 .ipynb_checkpoints
+
+# файлы с информацией о библиотеке catboost
+catboost_info/
